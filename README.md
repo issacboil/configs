@@ -1,2 +1,4 @@
 # configs
-configs for my arch systems 
+These are the configs that I use for my Desktop and Laptop both running arch. 
+
+
